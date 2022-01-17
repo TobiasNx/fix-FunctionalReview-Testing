@@ -155,10 +155,6 @@ public class ETL {
                 countSuccess = errored.get(false).size() + "";
             }
         }
-        LOG.info(
-                "Import channel {}, SUCCESS: {}, FAIL-PROCESS: {}, FAIL-VALIDATION: {}, FAIL-WRITE: {}, DURATION: {}",
-                flux.getName(), countSuccess, countFailProcess, countInvalid, countFailWrite,
-                formatTime(end));
     }
 
     private static Object[] maskCredentials(List<String> args) {
