@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+
+	<record>
+		<animals>{value=dog},{value=cat},{value=zebra}</animals>
+		<investigators>{value=Justus}?{value=Peter}?{value=Bob}</investigators>
+		<tools>{value=hammer}--{value=saw}--{value=bow}</tools>
+	</record>
+
+</records>

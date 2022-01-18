@@ -1,0 +1,6 @@
+join_field("animals[]", ",")
+move_field("animals[]","animals")
+join_field("investigators[]","?")
+move_field("investigators[]","investigators")
+join_field("tools[]","--")
+move_field("tools[]","tools")

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+
+	<record>
+		<animals>dog</animals>
+		<animals>cat</animals>
+		<animals>zebra</animals>
+		<investigators>Justus</investigators>
+		<investigators>Peter</investigators>
+		<investigators>Bob</investigators>
+		<tools>hammer</tools>
+		<tools>saw</tools>
+		<tools>bow</tools>
+	</record>
+
+</records>

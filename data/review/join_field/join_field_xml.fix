@@ -1,0 +1,3 @@
+join_field("animals", ",")
+join_field("investigators","?")
+join_field("tools","--")
