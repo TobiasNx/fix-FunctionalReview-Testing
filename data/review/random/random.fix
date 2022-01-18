@@ -1,0 +1,9 @@
+random ("number", "25")
+
+#Handling seems not to be "destructive" how is Catmandu operating this?
+random ("others", "25")
+random("animals[].$append", "25")
+random("bnimals[].$append.number", "25")
+
+#This seems not to work. Do not know why. Not an index-number but $append is element name.
+random("animals.$append", "25")
