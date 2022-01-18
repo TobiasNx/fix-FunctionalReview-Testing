@@ -1,0 +1,3 @@
+count("animals[]")
+count("animal")
+count("animols")

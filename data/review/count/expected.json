@@ -1,0 +1,8 @@
+{
+	"animals": "3",
+	"animal": "bunny",
+	"//animal": "Expected 1 but just value makes more sense since it is no hash", 
+	"animols": "2",
+	"ANIMALS": "dragon and unicorn"
+
+}
