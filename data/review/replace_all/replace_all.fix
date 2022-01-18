@@ -1,0 +1,3 @@
+replace_all("animal", "u", "AB")
+replace_all("animols.name", "i", "XY")
+# replace_all("animals[].*", "a", "QR")
