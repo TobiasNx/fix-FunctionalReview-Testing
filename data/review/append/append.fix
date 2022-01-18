@@ -1,0 +1,11 @@
+append("animal", " is cool")
+append("animols.name", " boss")
+
+# Does not work with array and indexnumber:
+# append("animals[].1", "is cool")
+
+# Does not work with all values of array of strings:
+# append("animals[].*", "is cool")
+
+# Creates weird resutls. Should result in error:
+# append("animals[]", "is cool")
