@@ -1,0 +1,10 @@
+# This might be okay, but some things to consider:
+
+# This only works on fields in an objects, not deeper nested structures.
+rename("others", "ani", "QR")
+
+# This seems not to work. Perhapse it is an array of objects.
+rename("animals[]", "ani", "XY")
+
+# Also you cannot rename all fields in root.
+# rename(".", "ani", "XY")
