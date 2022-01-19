@@ -1,0 +1,16 @@
+{
+	"animals": "dog,cat,zebra",
+	"people": {
+		"investigators": "Justus?Peter?Bob"
+	},
+	"others": [
+		{
+			"tools": "hammer--saw--bow"
+		}
+	],
+	"OTHERS": [
+		{
+			"tools": "hammer--saw--bow"
+		}
+	]
+}

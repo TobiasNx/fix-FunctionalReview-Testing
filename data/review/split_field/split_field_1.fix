@@ -1,0 +1,6 @@
+split_field("animals", ",")
+split_field("people.investigators","\\?")
+split_field("OTHERS[].1.tools","--")
+
+#This seems not to work:
+split_field("others[].*.tools","--")
