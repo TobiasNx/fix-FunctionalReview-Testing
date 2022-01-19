@@ -1,0 +1,17 @@
+{
+  "animals" : [ "dog", "zebra", "1" ],
+  "animols" : {
+    "name" : "bird",
+    "type" : "1"
+  },
+  "others" : [ {
+    "Aanimal" : "dog",
+    "Banimal" : "dog",
+    "name" : "1"
+  }, {
+    "name" : "Blacky",
+    "Aanimal" : "parrot",
+    "Banimal" : "parrot"
+  } ],
+  "animal" : "2"
+}

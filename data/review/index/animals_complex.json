@@ -1,0 +1,21 @@
+{
+	"animals": ["dog", "cat", "zebra"],
+	"animal": "bunny",
+	"animols": {
+		"name": "bird",
+		"type": "TEST"
+	},
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		},
+		{
+			"name": "Blacky",
+			"Aanimal": "parrot",
+			"Banimal": "parrot"
+		}
+	]
+
+}

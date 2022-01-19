@@ -1,0 +1,4 @@
+index("animals[].2", "a")
+index("animal", "n")
+index("animols.type", "E")
+index("others[].1.name", "a")
