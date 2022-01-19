@@ -1,0 +1,13 @@
+{
+  "animals" : [ "dog", "cat", "zebra" ],
+  "animal" : "ynnub",
+  "animols" : {
+    "name" : "bird",
+    "type" : "TSET"
+  },
+  "others" : [ {
+    "name" : "Jake",
+    "Aanimal" : "dog",
+    "Banimal" : "dog"
+  } ]
+}

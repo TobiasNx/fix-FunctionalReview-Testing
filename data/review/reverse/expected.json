@@ -1,0 +1,19 @@
+{
+	"animals": [
+		"arbez",
+		"tac",
+		"god"
+	],
+	"animal": "ynnub",
+	"animols": {
+		"name": "bird",
+		"type": "TSET"
+	},
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "god",
+			"Banimal": "dog"
+		}
+	]
+}

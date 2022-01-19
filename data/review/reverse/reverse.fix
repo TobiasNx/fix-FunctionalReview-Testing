@@ -1,0 +1,7 @@
+reverse("animal")
+reverse("animols.type")
+
+# These seem not to work perhapse due to (JSON-)Array
+reverse("animals[]")
+# reverse("animals[].*")
+reverse("others[].1.")
