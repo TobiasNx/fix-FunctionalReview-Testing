@@ -1,0 +1,19 @@
+sort_field("animals[]")
+sort_field("numbers[]")
+
+# Attributes with "1" is different to the metafacture approace with "true"
+sort_field("aumbers[]",numeric:"1")
+sort_field("bnimals[]",reverse:"1")
+sort_field("bumbers[]", numeric:"1",reverse:"1")
+
+sort_field("animols.cnimals[]")
+sort_field("animols.cumbers[]",numeric:"1")
+sort_field("others[].1.dnimals[]")
+sort_field("others[].1.dumbers[]",numeric:"1")
+sort_field("OTHERS[].*.enimals[]")
+sort_field("OTHERS[].*.eumbers[]",numeric:"1")
+sort_field("xumbers[]", uniq:"1")
+sort_field("ynimals[]", uniq: "1")
+sort_field("yumbers[]", numerical: "1", uniq:"1")
+sort_field("znimals[]", uniq: "1", reverse: "1")
+sort_field("zumbers[]", numerical: "1", uniq:"1", reverse:"1")
