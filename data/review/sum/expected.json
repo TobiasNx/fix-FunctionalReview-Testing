@@ -1,0 +1,41 @@
+{
+	"animals": [
+		"dog",
+		"cat",
+		"cat",
+		"zebra"
+	],
+	"numbers": "27",
+	"aumbers": "20",
+	"animols": {
+		"name": "bird",
+		"cnimals": [
+			"dog",
+			"cat",
+			"zebra"
+		],
+		"cumbers": "20"
+	},
+	"others": [
+		{
+			"name": "Jake",
+			"dnimals": [
+				"dog",
+				"cat",
+				"zebra"
+			],
+			"dumbers": "20"
+		}
+	],
+	"OTHERS": [
+		{
+			"name": "Jake",
+			"dnimals": [
+				"dog",
+				"cat",
+				"zebra"
+			],
+			"eumbers": "20"
+		}
+	]
+}

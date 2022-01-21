@@ -1,0 +1,5 @@
+sum("numbers[]")
+sum("aumbers[]")
+sum("animols.cumbers[]")
+sum("others[].1.dumbers[]")
+sum("OTHERS[].*.eumbers[]")

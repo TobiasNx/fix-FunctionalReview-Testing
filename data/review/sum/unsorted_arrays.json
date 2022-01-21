@@ -1,0 +1,67 @@
+{
+	"animals": [
+		"dog",
+		"cat",
+		"cat",
+		"zebra"
+	],
+	"numbers": [
+		"7",
+		"2",
+		"7",
+		"1",
+		"10"
+	],
+	"aumbers": [
+		"7",
+		"2",
+		"1",
+		"10"
+	],
+	"animols": {
+		"name": "bird",
+		"cnimals": [
+			"dog",
+			"cat",
+			"zebra"
+		],
+		"cumbers": [
+			"7",
+			"2",
+			"1",
+			"10"
+		]
+	},
+	"others": [
+		{
+			"name": "Jake",
+			"dnimals": [
+				"dog",
+				"cat",
+				"zebra"
+			],
+			"dumbers": [
+				"7",
+				"2",
+				"1",
+				"10"
+			]
+		}
+	],
+	"OTHERS": [
+		{
+			"name": "Jake",
+			"dnimals": [
+				"dog",
+				"cat",
+				"zebra"
+			],
+			"dumbers": [
+				"7",
+				"2",
+				"1",
+				"10"
+			]
+		}
+	]
+}
