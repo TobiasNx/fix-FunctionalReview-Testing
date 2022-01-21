@@ -1,17 +1,5 @@
 {
-  "animals" : {
-    "1" : "dog",
-    "2" : "cat",
-    "3" : "zebra"
-  },
-  "investigators" : {
-    "1" : "Justus",
-    "2" : "Peter",
-    "3" : "Bob"
-  },
-  "tools" : {
-    "1" : "hammer",
-    "2" : "saw",
-    "3" : "bow"
-  }
+  "animals" : "dog,cat,zebra",
+  "investigators" : "Justus?Peter?Bob",
+  "tools" : "hammer--saw--bow"
 }
