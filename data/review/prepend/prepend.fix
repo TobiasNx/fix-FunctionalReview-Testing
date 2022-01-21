@@ -2,15 +2,9 @@ prepend("animal", "What a nice ")
 prepend("animols.name", "Boss ")
 
 
-# same situation as append:
-# Does not work with array and indexnumber:
-# prepend("animals[].1", "Yeah ")
-# "animals": ["Yeah dog", "cat", "zebra"],
+prepend("animals[].1", "Yeah ")
 
-# Does not work with all values of array of strings:
-# prepend("animals[].*", "Muh ")
-# "animals": ["Muh dog", "Muh cat", "Muh zebra"],
+prepend("bnimals[].*", "Muh ")
 
-# Creates weird sdfsdfresutls. Should result in error:
-# prepend("animals[]", "Hmmm ")
-# "animals": ["Hmmm dog", "Hmmm cat", "Hmmm zebra"],
+#  Should result in error or ignore it:
+prepend("ANIMALS[]", "Hmmm ")

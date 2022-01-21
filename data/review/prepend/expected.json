@@ -1,9 +1,11 @@
 {
-  "animals" : [ "dog", "cat", "zebra" ],
+  "animals" : [ "Yeah dog", "cat", "zebra" ],
+  "bnimals": 	["Muh dog", "Muh cat", "Muh zebra"],
+  "animal" : "What a nice bunny",
   "animols" : {
     "type" : "TEST",
     "name" : "Boss bird"
   },
-  "ANIMALS" : "dragon and unicorn",
-  "animal" : "What a nice bunny"
+	"ANIMALS": 	["dog", "cat", "zebra"]
+
 }

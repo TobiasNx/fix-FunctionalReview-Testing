@@ -1,0 +1,10 @@
+{
+  "animals" : [ "Yeah dog", "cat", "zebra" ],
+  "bnimals" : [ "Muh dog", "Muh cat", "Muh zebra" ],
+  "animols" : {
+    "type" : "TEST",
+    "name" : "Boss bird"
+  },
+  "animal" : "What a nice bunny",
+  "ANIMALS" : [ "Hmmm dog", "Hmmm cat", "Hmmm zebra" ]
+}
