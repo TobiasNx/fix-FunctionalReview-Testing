@@ -2,6 +2,7 @@ sort_field("animals[]")
 sort_field("numbers[]")
 
 # Attributes with "1" is different to the metafacture approace with "true"
+# All options do not work yet.
 sort_field("aumbers[]",numeric:"1")
 sort_field("bnimals[]",reverse:"1")
 sort_field("bumbers[]", numeric:"1",reverse:"1")
@@ -10,6 +11,9 @@ sort_field("animols.cnimals[]")
 sort_field("animols.cumbers[]",numeric:"1")
 sort_field("others[].1.dnimals[]")
 sort_field("others[].1.dumbers[]",numeric:"1")
+
+# Selecting arrays with * does not work
+
 sort_field("OTHERS[].*.enimals[]")
 sort_field("OTHERS[].*.eumbers[]",numeric:"1")
 sort_field("xumbers[]", uniq:"1")
