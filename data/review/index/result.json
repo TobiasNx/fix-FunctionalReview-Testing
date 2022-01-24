@@ -1,5 +1,5 @@
 {
-  "animals" : [ "dog", "zebra", "1" ],
+  "animals" : [ "dog", "1", "zebra" ],
   "animols" : {
     "name" : "bird",
     "type" : "1"
