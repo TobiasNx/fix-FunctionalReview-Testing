@@ -4,10 +4,12 @@ move_field("animals","animals[]")
 split_field("people.investigators","\\?")
 move_field("people.investigators","people.investigators[]")
 
+
+# This still does not work:
 # split_field("others[].*.tools","--")
 # do list("others[]")
-# 	move_field("tools","tools[]")
+# 	move_field("tools","tails[]")
 # end
 
-split_field("OTHERS[].1.tools","--")
-move_field("OTHERS[].1.tools","OTHERS[].1.tools[]")
+# split_field("OTHERS[].1.tools","--")
+# move_field("OTHERS[].1.tools","OTHERS[].1.tails[]")

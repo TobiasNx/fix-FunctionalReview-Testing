@@ -6,7 +6,7 @@
     "tools" : "hammer--saw--bow"
   } ],
   "OTHERS" : [ {
-    "tools" : [ "hammer", "saw", "bow" ]
+    "tools" : "hammer--saw--bow"
   } ],
   "animals" : [ "dog", "cat", "zebra" ]
 }
