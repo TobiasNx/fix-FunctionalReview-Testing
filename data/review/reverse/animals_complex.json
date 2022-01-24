@@ -11,6 +11,12 @@
 			"Aanimal": "dog",
 			"Banimal": "dog"
 		}
+	],
+	"OTHERS": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
 	]
-
 }
