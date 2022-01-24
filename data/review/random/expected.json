@@ -1,0 +1,17 @@
+{
+	"animals": [
+		"dog",
+		"cat",
+		"25"
+	],
+	"others": "25",
+	"fictional": "unicorn",
+	"bnimals": [
+		{
+			"number": "25"
+		}
+	],
+	"cnimals": {
+		"1": "25"
+	}
+}

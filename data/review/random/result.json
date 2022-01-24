@@ -1,0 +1,10 @@
+{
+  "animals" : [ "dog", "cat", "20" ],
+  "others" : "1",
+  "fictional" : "unicorn",
+  "number" : "11",
+  "bnimals" : [ "20" ],
+  "cnimals" : {
+    "$append" : "1"
+  }
+}
