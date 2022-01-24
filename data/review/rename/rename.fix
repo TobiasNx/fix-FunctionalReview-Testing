@@ -4,7 +4,9 @@
 rename("others", "ani", "QR")
 
 # This seems not to work. Perhapse it is an array of objects.
+# I do not know which function of the following should work.
 rename("animals[]", "ani", "XY")
+# rename("animals[].*", "ani", "XY")
 
-# Also you cannot rename all fields in root.
-# rename(".", "ani", "XY")
+# Honestly I do not know if renaming the whole subhirachy should be an default option.
+# This could/should be an option. Or the process should go with the `each`-Bind.

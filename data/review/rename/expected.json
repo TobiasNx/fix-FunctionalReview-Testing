@@ -1,0 +1,20 @@
+{
+	"animals": [
+		{
+			"animal": "dog"
+		},
+		{
+			"animal": "cat"
+		}
+	],
+	"others": {
+		"animal": "human",
+		"canister": "metall",
+		"area": {
+			"ani": "test"
+		}
+	},
+	"fictional": {
+		"animal": "unicorn"
+	}
+}
