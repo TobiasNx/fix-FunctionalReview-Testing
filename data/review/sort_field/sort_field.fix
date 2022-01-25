@@ -1,23 +1,23 @@
 sort_field("animals[]")
 sort_field("numbers[]")
 
-# Attributes with "1" is different to the metafacture approace with "true"
+# Attributes with "true" is different to the metafacture approace with "true"
 # All options do not work yet.
-sort_field("aumbers[]",numeric:"1")
-sort_field("bnimals[]",reverse:"1")
-sort_field("bumbers[]", numeric:"1",reverse:"1")
+sort_field("aumbers[]",numeric:"true")
+sort_field("bnimals[]",reverse:"true")
+sort_field("bumbers[]", numeric:"true",reverse:"true")
 
 sort_field("animols.cnimals[]")
-sort_field("animols.cumbers[]",numeric:"1")
+sort_field("animols.cumbers[]",numeric:"true")
 sort_field("others[].1.dnimals[]")
-sort_field("others[].1.dumbers[]",numeric:"1")
+sort_field("others[].1.dumbers[]",numeric:"true")
 
 # Selecting arrays with * does not work
 
 sort_field("OTHERS[].*.enimals[]")
-sort_field("OTHERS[].*.eumbers[]",numeric:"1")
-sort_field("xumbers[]", uniq:"1")
-sort_field("ynimals[]", uniq: "1")
-sort_field("yumbers[]", numerical: "1", uniq:"1")
-sort_field("znimals[]", uniq: "1", reverse: "1")
-sort_field("zumbers[]", numerical: "1", uniq:"1", reverse:"1")
+sort_field("OTHERS[].*.eumbers[]",numeric:"true")
+sort_field("xumbers[]", uniq:"true")
+sort_field("ynimals[]", uniq: "true")
+sort_field("yumbers[]", numerical: "true", uniq:"true")
+sort_field("znimals[]", uniq: "true", reverse: "true")
+sort_field("zumbers[]", numerical: "true", uniq:"true", reverse:"true")

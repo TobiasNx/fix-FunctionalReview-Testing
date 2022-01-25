@@ -1,27 +1,27 @@
 {
   "animals" : [ "cat", "cat", "dog", "zebra" ],
   "numbers" : [ "1", "10", "2", "7", "7" ],
-  "aumbers" : [ "1", "10", "2", "7" ],
-  "bnimals" : [ "cat", "dog", "zebra" ],
-  "bumbers" : [ "1", "10", "2", "7" ],
+  "aumbers" : [ "1", "2", "7", "10" ],
+  "bnimals" : [ "zebra", "dog", "cat" ],
+  "bumbers" : [ "10", "7", "2", "1" ],
   "animols" : {
     "name" : "bird",
     "cnimals" : [ "cat", "dog", "zebra" ],
-    "cumbers" : [ "1", "10", "2", "7" ]
+    "cumbers" : [ "1", "2", "7", "10" ]
   },
   "others" : [ {
     "name" : "Jake",
     "dnimals" : [ "cat", "dog", "zebra" ],
-    "dumbers" : [ "1", "10", "2", "7" ]
+    "dumbers" : [ "1", "2", "7", "10" ]
   } ],
   "OTHERS" : [ {
     "name" : "Jake",
     "enimals" : [ "dog", "cat", "zebra" ],
     "eumbers" : [ "7", "2", "1", "10" ]
   } ],
-  "xumbers" : [ "1", "1", "10", "2", "7", "7" ],
-  "ynimals" : [ "cat", "dog", "dog", "zebra", "zebra" ],
-  "yumbers" : [ "1", "1", "10", "2", "7", "7" ],
-  "znimals" : [ "cat", "dog", "dog", "zebra", "zebra" ],
-  "zumbers" : [ "1", "1", "10", "2", "7", "7" ]
+  "xumbers" : [ "1", "10", "2", "7" ],
+  "ynimals" : [ "cat", "dog", "zebra" ],
+  "yumbers" : [ "1", "10", "2", "7" ],
+  "znimals" : [ "zebra", "dog", "cat" ],
+  "zumbers" : [ "7", "2", "10", "1" ]
 }
