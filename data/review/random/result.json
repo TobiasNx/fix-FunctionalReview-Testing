@@ -1,10 +1,13 @@
 {
-  "animals" : [ "dog", "cat", "20" ],
-  "others" : "1",
+  "animals" : [ "dog", "cat", "24" ],
+  "others" : "0",
   "fictional" : "unicorn",
-  "number" : "11",
-  "bnimals" : [ "20" ],
+  "number" : "18",
+  "bnimals" : [ {
+    "number" : "18"
+  } ],
+  "cnimals" : [ ],
   "cnimals" : {
-    "$append" : "1"
+    "$append" : "10"
   }
 }
