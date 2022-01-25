@@ -5,5 +5,5 @@ append("animals[].1", " is cool")
 
 append("bnimals[].*", " is cool")
 
-# This should result in error or ignore the function:
-append("ANIMALS[]", " is cool")
+# This results in error:
+# append("ANIMALS[]", " is cool")
