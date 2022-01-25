@@ -6,7 +6,7 @@ reverse("others[].1.name")
 reverse("animals[]")
 
 # These seem not to work perhapse due to (JSON-)Array. Either way does not work.
-reverse("animals[].*")
+reverse("ANIMALS[].*")
 
 # THis does not work. perhaps due to the `*`.
 reverse("OTHERS[].*.name")
