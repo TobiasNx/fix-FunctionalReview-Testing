@@ -6,5 +6,5 @@ prepend("animals[].1", "Yeah ")
 
 prepend("bnimals[].*", "Muh ")
 
-#  Should result in error or ignore it:
-prepend("ANIMALS[]", "Hmmm ")
+#  This results in error as expected:
+# prepend("ANIMALS[]", "Hmmm ")

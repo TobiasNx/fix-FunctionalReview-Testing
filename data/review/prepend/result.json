@@ -5,6 +5,6 @@
     "type" : "TEST",
     "name" : "Boss bird"
   },
-  "animal" : "What a nice bunny",
-  "ANIMALS" : [ "Hmmm dog", "Hmmm cat", "Hmmm zebra" ]
+  "ANIMALS" : [ "dog", "cat", "zebra" ],
+  "animal" : "What a nice bunny"
 }
