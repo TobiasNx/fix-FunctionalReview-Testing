@@ -1,5 +1,5 @@
 {
-  "OTHERS" : [ {
+  "Andere" : [ {
     "name" : "Jake",
     "Aanimal" : "dog",
     "Banimal" : "dog",
@@ -12,6 +12,14 @@
 			"Aanimal": "dog",
 			"Banimal": "dog",
       "znimals" : [ "sausage dog", "lion" ]
+		}
+	],
+  "OTHERS": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+      "nnimals": ["fish", "spider"]
 		}
 	]
 }
