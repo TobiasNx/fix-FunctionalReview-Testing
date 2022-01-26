@@ -1,0 +1,17 @@
+{
+  "OTHERS" : [ {
+    "name" : "Jake",
+    "Aanimal" : "dog",
+    "Banimal" : "dog",
+    "animals" : [ "dog", "cat", "zebra" ],
+    "znimals" : [ "racoon", "giraffe" ]
+  } ],
+  "others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+      "znimals" : [ "sausage dog", "lion" ]
+		}
+	]
+}

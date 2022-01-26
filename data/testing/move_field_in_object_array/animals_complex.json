@@ -1,0 +1,17 @@
+{
+	"animals": ["dog", "cat", "zebra"],
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+	],
+	"OTHERS": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+	]
+}
