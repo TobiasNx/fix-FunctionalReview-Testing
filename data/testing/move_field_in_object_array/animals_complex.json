@@ -4,7 +4,8 @@
 		{
 			"name": "Jake",
 			"Aanimal": "dog",
-			"Banimal": "dog"
+			"Banimal": "dog",
+			"knimals": ["fish", "spider"]
 		}
 	],
 	"OTHERS": [

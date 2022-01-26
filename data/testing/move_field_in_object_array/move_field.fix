@@ -1,4 +1,5 @@
 move_field("animals[]", "OTHERS[].1.animals[]")
+move_field("OTHERS[].1.knimals[]", "OTHERS[].1.nnimals[]")
 
 set_array("znimals", "racoon", "giraffe")
 move_field("znimals", "OTHERS[].1.znimals[]")
