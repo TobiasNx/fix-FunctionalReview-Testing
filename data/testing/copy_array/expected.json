@@ -1,0 +1,67 @@
+{
+	"animal": ["dog", "cat", "zebra"],
+	"bnimal": "crocodile",
+	"cnimal": "bird",
+	"knimal": ["fish", "spider"],
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ],
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ],
+			"zzzzzzzzzzzz" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ]
+		},
+	"yyyyyyyyy" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ],
+	"zzzzzzzzzzzz" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ]
+
+}
+{
+	"bnimal": "crocodile",
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "crocodile" ]
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "crocodile" ],
+			"zzzzzzzzzzzz" : [ "crocodile" ]	
+		},
+		"yyyyyyyyy" : [ "crocodile" ],
+		"zzzzzzzzzzzz" : [ "crocodile" ]		
+}
+{
+	"animal": ["ape"],
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "ape" ]
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog",
+			"yyyyyyyyy" : [ "ape" ],
+			"zzzzzzzzzzzz" : [ "ape" ]	
+		},
+		"yyyyyyyyy" : [ "ape" ],
+		"zzzzzzzzzzzz" : [ "ape" ]		
+}

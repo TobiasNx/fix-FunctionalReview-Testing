@@ -1,0 +1,51 @@
+{
+	"animal": ["dog", "cat", "zebra"],
+	"bnimal": "crocodile",
+	"cnimal": "bird",
+	"knimal": ["fish", "spider"],
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+}
+{
+	"bnimal": "crocodile",
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+}
+{
+	"animal": ["ape"],
+	"others": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+	],
+	"Andere": 
+		{
+			"name": "Jake",
+			"Aanimal": "dog",
+			"Banimal": "dog"
+		}
+}

@@ -1,0 +1,18 @@
+
+# This is still needed
+set_array("yyyyyyyyy[]")
+# set_array("others.1.yyyyyyyyy[]")
+set_array("Andere.yyyyyyyyy[]")
+
+do list(path:"?nimal|?nimal[]", "var":"c")
+	copy_field("c", "yyyyyyyyy[].$append")
+# This breaks:	
+#	copy_field("c", "others.1.yyyyyyyyy[].$append")
+	copy_field("c", "Andere.yyyyyyyyy[].$append")
+end
+
+copy_field("yyyyyyyyy[]", "zzzzzzzzzzzz[]")
+copy_field("yyyyyyyyy[]", "Andere.zzzzzzzzzzzz[]")
+# This breaks:
+# copy_field("animals[]","others.1.animals[]")
+copy_field("animals[]","Andere.animals[]")
