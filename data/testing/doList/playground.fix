@@ -1,0 +1,6 @@
+set_array("coll[]")
+do list(path:"feld?", "var":"$i")
+    add_field("coll[].$append.feldtest","true")
+    copy_field("$i.a.value", "coll[].$last.a")
+end
+retain("coll[]")

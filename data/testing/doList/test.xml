@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+    <feldA>
+        <a>Dog</a>
+    </feldA>
+    <feldA>
+        <a>Ape</a>
+    </feldA>
+    <feldA>
+        <a>Giraffe</a>
+    </feldA>
+    <feldB>
+        <a>Crocodile</a>
+    </feldB>
+    <feldB>
+        <a>Human</a>
+    </feldB>
+    <feldB>
+        <a>Bird</a>
+    </feldB>
+</record>
