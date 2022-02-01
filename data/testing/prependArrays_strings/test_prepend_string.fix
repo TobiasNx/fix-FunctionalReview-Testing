@@ -1,0 +1,5 @@
+copy_field("others", "animals[].$prepend")
+
+move_field("fictional", "animals[].$prepend")
+
+add_field("animals[].$prepend", "earthworm")
