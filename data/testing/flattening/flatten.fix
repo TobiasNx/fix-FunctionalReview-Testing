@@ -1,0 +1,2 @@
+split_field("keywords[].*",",")
+# flatten("keywords[]")
