@@ -6,6 +6,9 @@
     "type" : "TEST"
   },
   "ANIMALS" : "dragon and unicorn",
-  "stringimals" : [ "bunny" ],
+  "stringimals" : [ {
+    "1" : "bunny",
+    "//comment" : "this is interpreted as an array even if it is not set before. There seems to be something odd."
+  } ],
   "strongimals" : [ "bunny" ]
 }
