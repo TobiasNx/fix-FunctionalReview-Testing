@@ -1,0 +1,14 @@
+{
+  "animal" : "bunny",
+  "stringimals" : [ "bunny" ],
+  "strongimals" : [ "bunny" ]
+}
+{
+  "animal" : "bunny",
+  "bnimal" : "bunny",
+  "stringimals" : [ {
+    "1" : "bunny",
+    "2" : "bunny"
+  } ],
+  "strongimals" : [ "bunny", "bunny" ]
+}

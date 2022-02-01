@@ -1,0 +1,26 @@
+{
+  "animal": "bunny",
+  "stringimals": [
+    {
+      "1": "bunny"
+    }
+  ],
+  "//comment": "With the need of set_array a single append should not result in an array."
+  "strongimals": [
+    "bunny"
+  ]
+}
+{
+  "animal": "bunny",
+  "bnimal": "bunny",
+  "stringimals": [
+    {
+      "1": "bunny",
+      "2": "bunny"
+    }
+  ],
+  "strongimals": [
+    "bunny",
+    "bunny"
+  ]
+}

@@ -1,0 +1,4 @@
+copy_field("*nimal", "stringimals[].$append")
+
+set_array("strongimals[]")
+copy_field("*nimal", "strongimals[].$append")
