@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+
+	<record>
+		<animals[]>
+			<1>dog</1>
+			<2>elefant</2>
+		</animals[]>
+		<animals>
+			<1>dog</1>
+			<2>elefant</2>
+		</animals>
+	</record>
+
+</records>
