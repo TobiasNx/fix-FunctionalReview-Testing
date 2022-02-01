@@ -1,0 +1,18 @@
+{
+	"glass": ["water", "more water"],
+	"void": "",
+	"objection": {
+		"complaint": "1",
+		"argument": {},
+		"motivation": ["little", [], {}, "more"]
+	}
+}
+{
+	"glass": [],
+	"void": "not really",
+	"objection": {
+		"complaint": "",
+		"argument": {"nr 1": "", "nr 2": "blabla"},
+		"motivation": []
+	}
+}
