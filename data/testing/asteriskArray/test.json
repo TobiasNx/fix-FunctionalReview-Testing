@@ -1,0 +1,85 @@
+{
+	"test": [
+		"One",
+		"Two",
+		"Three"
+	],
+	"nestedTest": [
+		{
+			"test": [
+				"One",
+				"Two",
+				"Three"
+			]
+		},
+		{
+			"test": [
+				"4",
+				"5",
+				"6"
+			]
+		}
+	],
+	"coll": [
+		{
+			"a": "Dog"
+		},
+		{
+			"a": "Ape"
+		},
+		{
+			"a": "Giraffe"
+		},
+		{
+			"a": "Crocodile"
+		}
+	],
+	"others": [
+		{
+			"name": "Jake",
+			"animal": "dog",
+			"tools": "magic--arms--shapeShifting"
+		},
+		{
+			"name": "Finn",
+			"animal": "human",
+			"tools": "sword--anotherSword--arm"
+		}
+	],
+	"OTHERS": [
+		{
+			"name": "Jake",
+			"dnimals": [
+				"dog",
+				"zebra",
+				"cat"
+			],
+			"dumbers": [
+				"7",
+				"2",
+				"1",
+				"10"
+			]
+		}
+	],
+	"animals": [
+		{
+			"name": "Jake",
+			"Aanimal": "dog"
+		},
+		{
+			"name": "Blacky",
+			"Aanimal": "parrot"
+		}
+	],
+	"ANIMALS": [
+		{
+			"Aanimal": "dog",
+			"name": "Jake"
+		},
+		{
+			"Aanimal": "parrot",
+			"name": "Blacky"
+		}
+	]
+}

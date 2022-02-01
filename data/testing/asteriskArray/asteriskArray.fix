@@ -1,0 +1,26 @@
+# -------These work
+set_array("TEST_TWO[]")
+copy_field("test[].*", "TEST_TWO[].$append")
+set_array("TEST_3[]")
+copy_field("test[].*", "TEST_THREE[].$append")
+
+replace_all("test[].*", "o", "__")
+append("test[].*", " is cool")
+replace_all("coll[].*.a", "o", "__")
+prepend("coll[].*.a", "HELLO ")
+
+lookup("animals[].*.Aanimal", "data/testing/asteriskArray/mapfile.tsv", "sep_char":"\t")
+
+# ----------These do nothing
+set_array("TEST_4[]")
+copy_field("nestedTest[].*.test[].*", "TEST_4[].$append")
+split_field("others[].*.tools","--")
+sort_field("OTHERS[].*.dnimals[]")
+
+# ----------These break:
+# reverse("TEST_3[].*")
+# reverse("ANIMALS[].*")
+
+# sum("OTHERS[].*.dumbers[]")
+
+# rename("OTHERS[].*", "d", "XY")
