@@ -8,5 +8,8 @@
   } ],
   "others" : {
     "animal" : "human"
+  },
+  "exstinct" : {
+    "animal" : "dodo"
   }
 }

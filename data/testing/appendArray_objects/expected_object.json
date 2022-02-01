@@ -1,10 +1,25 @@
 {
-	"animals":[
-			{"animal": "dog"},
-			{"animal": "cat"},
-			{"animal": "human"},
-			{"animal": "unicorn"},
-			{"animal": "earthworm"}
+	"animals": [
+		{
+			"animal": "dodo"
+		},
+		{
+			"animal": "dog"
+		},
+		{
+			"animal": "cat"
+		},
+		{
+			"animal": "human"
+		},
+		{
+			"animal": "unicorn"
+		},
+		{
+			"animal": "earthworm"
+		}
 	],
-	"others": {"animal": "human"}
+	"others": {
+		"animal": "human"
+	}
 }

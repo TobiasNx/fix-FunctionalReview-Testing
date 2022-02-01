@@ -4,5 +4,6 @@
 			{"animal": "cat"}
 	],
 	"others": {"animal": "human"},
-	"fictional": {"animal": "unicorn"}
+	"fictional": {"animal": "unicorn"},
+	"exstinct": {"animal": "dodo"}
 }
