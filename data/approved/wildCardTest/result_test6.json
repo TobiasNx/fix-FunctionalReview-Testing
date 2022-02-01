@@ -1,0 +1,14 @@
+{
+  "animals" : [ "dog", "cat", "zebra" ],
+  "animal" : "bunny",
+  "animols" : {
+    "name" : "bird",
+    "type" : "TEST"
+  },
+  "ANIMALS" : "dragon and unicorn",
+  "stringimals" : [ {
+    "1" : "bunny",
+    "//comment" : "this is interpreted as an array even if it is not set before. There seems to be something odd."
+  } ],
+  "strongimals" : [ "bunny" ]
+}

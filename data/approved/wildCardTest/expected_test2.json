@@ -1,0 +1,15 @@
+{
+  "animal" : {
+    "1" : "dog",
+    "2" : "dog",
+    "//comment": "if changed to destructive behaviour, should be not an object"
+  }
+}
+{
+  "bnimal" : "cat",
+  "animal" : "cat"
+}
+{
+  "cnimal" : "zebra",
+  "animal" : "zebra"
+}

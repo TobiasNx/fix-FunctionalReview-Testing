@@ -1,1 +1,4 @@
 copy_field("ani*", "stringimals[].$append")
+
+set_array("strongimals[]")
+copy_field("ani*", "strongimals[].$append")

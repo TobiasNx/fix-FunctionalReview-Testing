@@ -1,11 +1,9 @@
-# This might be okay, but some things to consider:
-
-# This only works on fields in an objects, not deeper nested structures.
 rename("others", "ani", "QR")
+
+rename("animals[]", "ani", "XY")
 
 # This seems not to work. Perhapse it is an array of objects.
 # I do not know which function of the following should work.
-rename("animals[]", "ani", "XY")
 # rename("animals[].*", "ani", "XY")
 
 # Honestly I do not know if renaming the whole subhirachy should be an default option.

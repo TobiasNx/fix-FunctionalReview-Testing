@@ -3,10 +3,8 @@ random ("number", "25")
 random ("others", "25")
 random("animals[].$append", "25")
 
-#This seems not to work.
 set_array("bnimals[]")
 random("bnimals[].$append.number", "25")
 
-#This seems not to work. Do not know why. Not an index-number but $append is element name.
-set_array("cnimals[]")
+set_array("cnimals")
 random("cnimals.$append", "25")

@@ -10,5 +10,5 @@ infile
 | decode-json
 | fix(FLUX_DIR + "var.fix", *)
 | encode-json(prettyPrinting="true")
-| print
+| write(FLUX_DIR + "result.json")
 ;

@@ -1,0 +1,11 @@
+{
+  "animal" : "dog",
+  "bnimal" : "cat",
+  "cnimal" : "zebra",
+  "dnimol" : "bunny",
+  "stringimals" : [ {
+    "1" : "dog",
+    "2" : "zebra"
+  } ],
+  "strongimals" : [ "dog", "zebra" ]
+}

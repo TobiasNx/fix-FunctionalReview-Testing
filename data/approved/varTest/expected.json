@@ -1,0 +1,11 @@
+{
+  "name" : "I am an OER",
+  "provider" : {
+    "id" : "https://oerworldmap.org/resource/urn:uuid:c9d74da8-bf88-4f3e-b601-f2a3f6d40330",
+    "type" : "Service",
+    "name" : "DuEPublico"
+  },
+  "sourceTag" : "OER by DuEPublico",
+  "open" : "yes",
+  "reuse" : "allowed"
+}

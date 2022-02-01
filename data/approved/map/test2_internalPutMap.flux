@@ -6,5 +6,5 @@ infile
 | decode-json
 | fix(FLUX_DIR + "putMap.fix")
 | encode-json(prettyPrinting="true")
-| print
+| write(FLUX_DIR + "test2_result.json")
 ;

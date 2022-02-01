@@ -1,0 +1,4 @@
+{
+  "animals" : [ "dog", "cat", "human", "unicorn", "earthworm" ],
+  "others" : "human"
+}

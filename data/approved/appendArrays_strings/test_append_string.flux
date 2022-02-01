@@ -6,5 +6,5 @@ infile
 | decode-json
 | fix(FLUX_DIR + "test_append_string.fix")
 | encode-json(prettyPrinting="true")
-| print
+| write(FLUX_DIR + "result_string.json")
 ;

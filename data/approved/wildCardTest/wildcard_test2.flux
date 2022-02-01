@@ -6,5 +6,5 @@ infile
 | decode-json
 | fix(FLUX_DIR + "simpleCopyWithWildcard.fix")
 | encode-json(prettyPrinting="true")
-| print
+| write(FLUX_DIR + "result_test2.json")
 ;

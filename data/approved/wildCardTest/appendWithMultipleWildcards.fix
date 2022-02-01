@@ -1,1 +1,4 @@
 copy_field("?ni??l", "stringimals[].$append")
+
+set_array("strongimals[]")
+copy_field("?ni??l", "strongimals[].$append")

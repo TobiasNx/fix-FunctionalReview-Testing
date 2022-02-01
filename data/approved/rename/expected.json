@@ -1,17 +1,17 @@
 {
 	"animals": [
 		{
-			"animal": "dog"
+			"XYmal": "dog"
 		},
 		{
-			"animal": "cat"
+			"XYmal": "cat"
 		}
 	],
 	"others": {
-		"animal": "human",
-		"canister": "metall",
+		"QRmal": "human",
+		"cQRster": "metall",
 		"area": {
-			"ani": "test"
+			"QR": "test"
 		}
 	},
 	"fictional": {

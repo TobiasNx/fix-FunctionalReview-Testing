@@ -1,5 +1,5 @@
-do list("animals[]")
-	lookup("Banimal", "data/experimental/map/mapfile.tsv", "sep_char":"\t")
+do list(path: "animals[]")
+	lookup("Banimal", "data/approved/lookUpWithArray/mapfile.tsv", "sep_char":"\t")
 end
 
-// lookup("animals[].*.Aanimal", "data/experimental/map/mapfile.tsv", "sep_char":"\t")
+lookup("animals[].*.Aanimal", "data/approved/lookUpWithArray/mapfile.tsv", "sep_char":"\t")
