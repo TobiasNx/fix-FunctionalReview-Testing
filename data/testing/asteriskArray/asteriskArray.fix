@@ -3,11 +3,15 @@ set_array("TEST_TWO[]")
 copy_field("test[].*", "TEST_TWO[].$append")
 set_array("TEST_3[]")
 copy_field("test[].*", "TEST_THREE[].$append")
+prepend("nestedTest[].*.test[].*", "Number ")
+set_array("TEST_5[]")
+copy_field("coll[].*.b", "TEST_5[].$append")
 
 replace_all("test[].*", "o", "__")
 append("test[].*", " is cool")
 replace_all("coll[].*.a", "o", "__")
 prepend("coll[].*.a", "HELLO ")
+replace_all("nestedTest[].*.test[].*", "o", "__")
 
 lookup("animals[].*.Aanimal", "data/testing/asteriskArray/mapfile.tsv", "sep_char":"\t")
 
@@ -16,8 +20,10 @@ set_array("TEST_4[]")
 copy_field("nestedTest[].*.test[].*", "TEST_4[].$append")
 split_field("others[].*.tools","--")
 sort_field("OTHERS[].*.dnimals[]")
+add_field("coll[].*.c", "test")
 
 # ----------These break:
+
 # reverse("TEST_3[].*")
 # reverse("ANIMALS[].*")
 

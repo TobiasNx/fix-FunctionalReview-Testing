@@ -22,10 +22,12 @@
 	],
 	"coll": [
 		{
-			"a": "Dog"
+			"a": "Dog",
+			"b": "Dog"
 		},
 		{
-			"a": "Ape"
+			"a": "Ape",
+			"b": "Ape"
 		},
 		{
 			"a": "Giraffe"

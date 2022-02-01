@@ -1,13 +1,19 @@
 {
   "test" : [ "One is cool", "Tw__ is cool", "Three is cool" ],
   "coll" : [ {
-    "a" : "HELLO D__g"
+    "a" : "HELLO D__g",
+    "b": "Dog",
+    "c": "test"
   }, {
-    "a" : "HELLO Ape"
+    "a" : "HELLO Ape",
+    "b": "Ape",
+    "c": "test"
   }, {
-    "a" : "HELLO Giraffe"
+    "a" : "HELLO Giraffe",
+    "c": "test"
   }, {
-    "a" : "HELLO Cr__c__dile"
+    "a" : "HELLO Cr__c__dile",
+    "c": "test"
   } ],
   "others" : [ {
     "name" : "Jake",
@@ -40,5 +46,6 @@
   } ],
   "TEST_TWO" : [ "One", "Two", "Three" ],
   "TEST_3" : [ "enO", "owT", "eerhT" ],
-  "Test_4": [ "One", "Two", "Three", "4", "5", "6"]
+  "Test_4": [ "One", "Two", "Three", "4", "5", "6"],
+  "TEST_5" : [ "Dog", "Ape" ]
 }

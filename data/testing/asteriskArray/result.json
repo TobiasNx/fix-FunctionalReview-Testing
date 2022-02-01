@@ -1,13 +1,15 @@
 {
   "test" : [ "One is cool", "Tw__ is cool", "Three is cool" ],
   "nestedTest" : [ {
-    "test" : [ "One", "Two", "Three" ]
+    "test" : [ "Number One", "Number Tw__", "Number Three" ]
   }, {
-    "test" : [ "4", "5", "6" ]
+    "test" : [ "Number 4", "Number 5", "Number 6" ]
   } ],
   "coll" : [ {
+    "b" : "Dog",
     "a" : "HELLO D__g"
   }, {
+    "b" : "Ape",
     "a" : "HELLO Ape"
   }, {
     "a" : "HELLO Giraffe"
@@ -49,5 +51,6 @@
     "2" : "Two",
     "3" : "Three"
   } ],
+  "TEST_5" : [ "Dog", "Ape" ],
   "TEST_4" : [ ]
 }
