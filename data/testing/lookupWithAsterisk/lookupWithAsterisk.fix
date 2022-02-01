@@ -1,0 +1,7 @@
+put_map("map",
+"dog":"mammal",
+"parrot":"bird"
+	)
+
+lookup("bnimals[].*", "map")
+lookup("animals[].*.animalGroup", "map")

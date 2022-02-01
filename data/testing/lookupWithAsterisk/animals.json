@@ -1,0 +1,13 @@
+{
+	"animals": [
+		{
+			"name": "Jake",
+			"animalGroup": "dog"
+		},
+		{
+			"name": "Blacky",
+			"animalGroup": "parrot"
+		}
+	],
+	"bnimals": ["dog", "parrot"]
+}
