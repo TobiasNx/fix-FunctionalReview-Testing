@@ -1,0 +1,24 @@
+{
+  "animals" : [ "Yeah dog is cool", "cat", "zebra" ],
+  "bnimals" : [ "Muh dog is cool", "Muh cat is cool", "Muh zebra is cool" ],
+  "animols" : {
+    "type" : "TEST",
+    "name" : "Mr bird boss"
+  },
+  "ANIMALS" : [ "dog", "cat", "zebra" ],
+  "others" : [ {
+    "animal" : "dog is cool",
+    "name" : "Hello Jake"
+  }, {
+    "name" : "Finn",
+    "animal" : "human"
+  } ],
+  "OTHERS" : [ {
+    "animal" : "dog is cool",
+    "name" : "Hi Jake"
+  }, {
+    "animal" : "human is cool",
+    "name" : "Hi Finn"
+  } ],
+  "animal" : "What a nice bunny is cool"
+}

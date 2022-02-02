@@ -1,0 +1,11 @@
+prepend("animal", "What a nice ")
+prepend("animols.name", "Mr ")
+
+
+prepend("animals[].1", "Yeah ")
+
+prepend("bnimals[].*", "Muh ")
+
+prepend("others[].1.name", "Hello ")
+
+prepend("OTHERS[].*.name", "Hi ")

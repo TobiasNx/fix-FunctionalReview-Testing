@@ -1,0 +1,11 @@
+append("animal", " is cool")
+append("animols.name", " boss")
+
+append("animals[].1", " is cool")
+
+append("bnimals[].*", " is cool")
+
+append("others[].1.animal", " is cool")
+append("OTHERS[].*.animal", " is cool")
+
+include("data/review/include/prepend.fix")
