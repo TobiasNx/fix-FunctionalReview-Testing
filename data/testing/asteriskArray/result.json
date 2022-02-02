@@ -45,12 +45,7 @@
     "name" : "Blacky"
   } ],
   "TEST_TWO" : [ "One", "Two", "Three" ],
-  "TEST_3" : [ ],
-  "TEST_THREE" : [ {
-    "1" : "One",
-    "2" : "Two",
-    "3" : "Three"
-  } ],
+  "TEST_3" : [ "One", "Two", "Three" ],
   "TEST_5" : [ "Dog", "Ape" ],
   "TEST_4" : [ ]
 }

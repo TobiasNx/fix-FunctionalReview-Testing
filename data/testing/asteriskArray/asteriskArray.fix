@@ -2,7 +2,7 @@
 set_array("TEST_TWO[]")
 copy_field("test[].*", "TEST_TWO[].$append")
 set_array("TEST_3[]")
-copy_field("test[].*", "TEST_THREE[].$append")
+copy_field("test[].*", "TEST_3[].$append")
 prepend("nestedTest[].*.test[].*", "Number ")
 set_array("TEST_5[]")
 copy_field("coll[].*.b", "TEST_5[].$append")
