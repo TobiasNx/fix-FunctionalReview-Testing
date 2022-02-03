@@ -1,0 +1,4 @@
+if exists("other[]")
+	add_field("simple_test", "test")
+
+	retain("simple_test")

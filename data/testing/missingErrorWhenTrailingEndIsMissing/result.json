@@ -1,0 +1,51 @@
+{
+  "test" : [ "One is cool", "Tw__ is cool", "Three is cool" ],
+  "coll" : [ {
+    "a" : "HELLO D__g",
+    "b" : "Dog",
+    "c" : "test"
+  }, {
+    "a" : "HELLO Ape",
+    "b" : "Ape",
+    "c" : "test"
+  }, {
+    "a" : "HELLO Giraffe",
+    "c" : "test"
+  }, {
+    "a" : "HELLO Cr__c__dile",
+    "c" : "test"
+  } ],
+  "others" : [ {
+    "name" : "Jake",
+    "animal" : "dog",
+    "tools" : [ {
+      "1" : "magic",
+      "2" : "arms",
+      "3" : "shapeShifting"
+    } ]
+  }, {
+    "name" : "Finn",
+    "animal" : "human",
+    "tools" : [ {
+      "1" : "sword",
+      "2" : "anotherSword",
+      "3" : "arm"
+    } ]
+  } ],
+  "OTHERS" : [ {
+    "name" : "Jake",
+    "dnimals" : [ "cat", "dog", "zebra" ],
+    "dumbers" : [ "20" ]
+  } ],
+  "animals" : [ {
+    "name" : "Jake",
+    "Aanimal" : "mammal"
+  }, {
+    "name" : "Blacky",
+    "Aanimal" : "bird"
+  } ],
+  "TEST_TWO" : [ "One", "Two", "Three" ],
+  "TEST_3" : [ "enO", "owT", "eerhT" ],
+  "TEST_4" : [ "One", "Two", "Three", "4", "5", "6" ],
+  "TEST_5" : [ "Dog", "Ape" ]
+}
