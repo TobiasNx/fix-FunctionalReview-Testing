@@ -1,0 +1,5 @@
+set_array("animals[].*.test[]")
+
+set_array("animals[].$last.TEST[]")
+
+set_array("animals[].$append.T__ST[]")

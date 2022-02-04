@@ -1,0 +1,12 @@
+{
+  "animals" : [ {
+    "name" : "Jake",
+    "animalGroup" : "dog"
+  }, {
+    "name" : "Blacky",
+    "animalGroup" : "parrot"
+  } ],
+  "animals[].*.test" : [ ],
+  "animals[].$last.TEST" : [ ],
+  "animals[].$append.T__ST" : [ ]
+}

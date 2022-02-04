@@ -1,0 +1,18 @@
+{
+	"animals": [
+		{
+			"name": "Jake",
+			"animalGroup": "dog",
+			"test":[]
+		},
+		{
+			"name": "Blacky",
+			"animalGroup": "parrot",
+			"test":[],
+			"TEST":[]
+		},
+		{
+			"T__ST":[]
+		}
+	]
+}
