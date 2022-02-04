@@ -1,5 +1,10 @@
 {
-    "animals": [
-        "dog", "elefant"
+    "animal_string_Array": [
+        "dog",
+        "elefant"
+    ],
+    "animal_object_Array": [
+        {"name":"dog"},
+        {"name":"elefant"}
     ]
 }

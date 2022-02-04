@@ -1,1 +1,14 @@
-copy_field("animals[]", "animals")
+copy_field("animal_string_Array[]", "animals_repeated_SimpleField")
+copy_field("animal_object_Array[]", "animals_repeated_ObjectField")
+copy_field("animal_object_Array[]", "test_animals_repeated_ObjectField")
+copy_field("animal_object_Array[]", "test_animal_object_Array[]")
+
+#This creates trouble - writes into every first object in array
+copy_field("animal_string_Array[]", "test_animals_repeated_ObjectField.$first.animalsString_1")
+#This creates trouble - writes into every last object in array
+copy_field("animal_string_Array[]", "test_animals_repeated_ObjectField.$last.animalsObject_1[]")
+
+#This creates trouble - writes into every first object in array
+copy_field("animal_string_Array[]", "test_animal_object_Array[].$first.animalsString_2")
+#This creates trouble - writes into every last object in array
+copy_field("animal_string_Array[]", "test_animal_object_Array[].$last.animalsObject_2[]")
