@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <records>
+
 	<record>
-		<animals[]>dog</animals[]>
-		<animals[]>elefant</animals[]>
-		<animals>dog</animals>
-		<animals>elefant</animals>
+		<animal_string_Array[]>
+			<1>dog</1>
+			<2>elefant</2>
+		</animal_string_Array[]>
+		<animal_object_Array[]>
+			<1>
+				<name>dog</name>
+			</1>
+			<2>
+				<name>elefant</name>
+			</2>
+		</animal_object_Array[]>
+		<animals_repeated_SimpleField>dog</animals_repeated_SimpleField>
+		<animals_repeated_SimpleField>elefant</animals_repeated_SimpleField>
+		<animals_repeated_ObjectField>
+			<name>dog</name>
+		</animals_repeated_ObjectField>
+		<animals_repeated_ObjectField>
+			<name>elefant</name>
+		</animals_repeated_ObjectField>
+		<test_animals_repeated_ObjectField>
+			<name>dog</name>
+			<animalsString_1>dog</animalsString_1>
+			<animalsString_1>elefant</animalsString_1>
+		</test_animals_repeated_ObjectField>
+		<test_animals_repeated_ObjectField>
+			<name>elefant</name>
+			<animalsObject_1[]>
+				<1>dog</1>
+				<2>elefant</2>
+			</animalsObject_1[]>
+		</test_animals_repeated_ObjectField>
+		<test_animal_object_Array[]>
+			<1>
+				<name>dog</name>
+				<animalsString_2>dog</animalsString_2>
+				<animalsString_2>elefant</animalsString_2>
+			</1>
+			<2>
+				<name>elefant</name>
+				<animalsObject_2[]>
+					<1>dog</1>
+					<2>elefant</2>
+				</animalsObject_2[]>
+			</2>
+		</test_animal_object_Array[]>
 	</record>
+
 </records>
