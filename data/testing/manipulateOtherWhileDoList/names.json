@@ -1,0 +1,16 @@
+{
+	"creator": [
+		{
+			"name": "BEGIN:VCARD\nN:Paul;Enno\nFN:Enno Paul\nVERSION:3.0\nEND:VCARD"
+		},
+		{
+			"name": "BEGIN:VCARD\nN:Hieronymus;Anna\nX-ES-LOM-CONTRIBUTE-DATE:\nFN:Anna Hieronymus\nVERSION:3.0\nEND:VCARD"
+		},
+		{
+			"name": "BEGIN:VCARD\nN:Lühn;Pia\nX-ES-LOM-CONTRIBUTE-DATE:\nFN:Pia Lühn\nVERSION:3.0\nEND:VCARD"
+		},
+		{
+			"name": "BEGIN:VCARD\nORG:Schule und Bewegung Universität Oldenburg\nN:;\nTITLE:\nX-ES-LOM-CONTRIBUTE-DATE:\nVERSION:3.0\nEND:VCARD"
+		}
+	]
+	}

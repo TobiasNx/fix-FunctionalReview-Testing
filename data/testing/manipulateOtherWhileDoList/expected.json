@@ -1,0 +1,40 @@
+{
+	"creator": [
+		{
+			"name": "BEGIN:VCARD\nN:Paul;Enno\nFN:Enno Paul\nVERSION:3.0\nEND:VCARD",
+			"TÄST": "Enno Paul",
+			"test": "Enno Paul"
+		},
+		{
+			"name": "BEGIN:VCARD\nN:Hieronymus;Anna\nX-ES-LOM-CONTRIBUTE-DATE:\nFN:Anna Hieronymus\nVERSION:3.0\nEND:VCARD",
+			"TÄST": "Anna Hieronymus",
+			"test": "Anna Hieronymus"
+		},
+		{
+			"name": "BEGIN:VCARD\nN:Lühn;Pia\nX-ES-LOM-CONTRIBUTE-DATE:\nFN:Pia Lühn\nVERSION:3.0\nEND:VCARD",
+			"TÄST": "Pia Lühn",
+			"test": "Pia Lühn"
+		},
+		{
+			"name": "BEGIN:VCARD\nORG:Schule und Bewegung Universität Oldenburg\nN:;\nTITLE:\nX-ES-LOM-CONTRIBUTE-DATE:\nVERSION:3.0\nEND:VCARD",
+			"TÄST": "BEGIN:VCARD\nORG:Schule und Bewegung Universität Oldenburg\nN:;\nTITLE:\nX-ES-LOM-CONTRIBUTE-DATE:\nVERSION:3.0\nEND:VCARD"
+		}
+	],
+	"test": [
+		{
+			"TÄST": "Enno Paul",
+			"test": "Enno Paul"
+		},
+		{
+			"TÄST": "Anna Hieronymus",
+			"test": "Anna Hieronymus"
+		},
+		{
+			"TÄST": "Pia Lühn",
+			"test": "Pia Lühn"
+		},
+		{
+			"TÄST": "BEGIN:VCARD\nORG:Schule und Bewegung Universität Oldenburg\nN:;\nTITLE:\nX-ES-LOM-CONTRIBUTE-DATE:\nVERSION:3.0\nEND:VCARD"
+		}
+	]
+}

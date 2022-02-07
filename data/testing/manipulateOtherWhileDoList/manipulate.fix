@@ -1,0 +1,13 @@
+set_array("test[]")
+do list(path: "creator[]", "var": "$i")
+    copy_field("$i.name","test[].$append.TÄST")
+    replace_all("test[].$last.TÄST","^BEGIN:VCARD[\\s\\S]*FN:(.+)\n[\\s\\S]*\nEND:VCARD$", "$1")
+    copy_field("$i.name","$i.TÄST")
+    replace_all("$i.TÄST","^BEGIN:VCARD[\\s\\S]*FN:(.+)\n[\\s\\S]*\nEND:VCARD$", "$1") 
+    if any_match("$i.name", "^BEGIN:VCARD[\\s\\S]*FN:(.+)\n[\\s\\S]*\nEND:VCARD$")
+        copy_field("$i.name","test[].$last.test")
+        replace_all("test[].$last.test","^BEGIN:VCARD[\\s\\S]*FN:(.+)\n[\\s\\S]*\nEND:VCARD$", "$1")
+        copy_field("$i.name","$i.test")
+        replace_all("$i.test","^BEGIN:VCARD[\\s\\S]*FN:(.+)\n[\\s\\S]*\nEND:VCARD$", "$1")
+    end
+end
