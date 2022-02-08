@@ -1,0 +1,38 @@
+{
+  "creator" : [ {
+    "name" : "Enno Paul"
+  }, {
+    "name" : "Anna Hieronymus"
+  }, {
+    "name" : "Pia Lühn"
+  }, {
+    "name" : "Schule und Bewegung Universität Oldenburg"
+  }, {
+    "test" : "Enno Paul"
+  }, {
+    "test" : "Anna Hieronymus"
+  }, {
+    "test" : "Pia Lühn"
+  }, {
+    "test" : "Schule und Bewegung Universität Oldenburg"
+  } ],
+  "CREATOR" : [ {
+    "name" : "Enno Paul"
+  }, {
+    "name" : "Anna Hieronymus"
+  }, {
+    "name" : "Pia Lühn"
+  }, {
+    "name" : "Schule und Bewegung Universität Oldenburg"
+  }, {
+    "test" : "Enno Paul"
+  }, {
+    "test" : "Anna Hieronymus"
+  }, {
+    "test" : "Pia Lühn"
+  }, {
+    "test" : "Schule und Bewegung Universität Oldenburg"
+  } ],
+  "test" : [ ],
+  "test_2" : [ "Enno Paul", "Anna Hieronymus", "Pia Lühn", "Schule und Bewegung Universität Oldenburg", "Enno Paul", "Anna Hieronymus", "Pia Lühn", "Schule und Bewegung Universität Oldenburg" ]
+}

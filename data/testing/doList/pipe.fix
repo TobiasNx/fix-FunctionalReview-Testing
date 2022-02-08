@@ -2,7 +2,7 @@ set_array("test[]")
 set_array("test_2[]")
 
 # This breaks:
-copy_field("creator[].*.name|CREATOR[].*.name", "test[].$append")
+# copy_field("creator[].*.name|CREATOR[].*.name", "test[].$append")
 
 
 do list(path:"creator[]|CREATOR[]", "var":"$i")
