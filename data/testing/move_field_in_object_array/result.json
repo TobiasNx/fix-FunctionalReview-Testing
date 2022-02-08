@@ -8,8 +8,6 @@
     "animals" : [ "dog", "cat", "zebra" ],
     "znimals" : [ "racoon", "giraffe" ]
   } ],
-  "others[].1.ynimals" : {
-    "1" : "sausage dog",
-    "2" : "lion"
-  }
+  "others[].1.ynimals" : "sausage dog",
+  "others[].1.ynimals" : "lion"
 }

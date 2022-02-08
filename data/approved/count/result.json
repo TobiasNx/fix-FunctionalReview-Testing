@@ -1,5 +1,5 @@
 {
-  "animals[]" : "3",
+  "animals" : [ "3" ],
   "animal" : "bunny",
   "animols" : "2",
   "ANIMALS" : "dragon and unicorn"

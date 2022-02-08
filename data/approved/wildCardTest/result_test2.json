@@ -1,8 +1,6 @@
 {
-  "animal" : {
-    "1" : "dog",
-    "2" : "dog"
-  }
+  "animal" : "dog",
+  "animal" : "dog"
 }
 {
   "bnimal" : "cat",

@@ -4,10 +4,10 @@
   "cnimal" : "zebra",
   "dnimol" : "bunny",
   "stringimals" : [ {
-    "1" : "dog",
-    "2" : "cat",
-    "3" : "zebra",
-    "4" : "bunny"
+    "$append" : "dog",
+    "$append" : "cat",
+    "$append" : "zebra",
+    "$append" : "bunny"
   } ],
   "strongimals" : [ "dog", "cat", "zebra", "bunny" ]
 }

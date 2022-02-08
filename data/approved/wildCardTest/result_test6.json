@@ -6,6 +6,8 @@
     "type" : "TEST"
   },
   "ANIMALS" : "dragon and unicorn",
-  "stringimals" : [ "bunny" ],
+  "stringimals" : [ {
+    "$append" : "bunny"
+  } ],
   "strongimals" : [ "bunny" ]
 }

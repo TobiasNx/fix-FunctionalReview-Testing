@@ -1,14 +1,16 @@
 {
   "animal" : "bunny",
-  "stringimals" : [ "bunny" ],
+  "stringimals" : [ {
+    "$append" : "bunny"
+  } ],
   "strongimals" : [ "bunny" ]
 }
 {
   "animal" : "bunny",
   "bnimal" : "bunny",
   "stringimals" : [ {
-    "1" : "bunny",
-    "2" : "bunny"
+    "$append" : "bunny",
+    "$append" : "bunny"
   } ],
   "strongimals" : [ "bunny", "bunny" ]
 }
