@@ -20,7 +20,7 @@ set_array("TEST_4[]")
 copy_field("nestedTest[].*.test[].*", "TEST_4[].$append")
 split_field("others[].*.tools","--")
 sort_field("OTHERS[].*.dnimals[]")
-\* add_field("coll[].*.c", "test") */
+add_field("coll[].*.c", "test")
 
 # ----------These break:
 
