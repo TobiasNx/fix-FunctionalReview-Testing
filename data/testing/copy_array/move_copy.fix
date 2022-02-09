@@ -6,7 +6,7 @@ set_array("Andere.yyyyyyyyy[]")
 
 do list(path:"?nimal|?nimal[]", "var":"c")
 	copy_field("c", "yyyyyyyyy[].$append")
-# This breaks:	
+# This breaks:
 #	copy_field("c", "others.1.yyyyyyyyy[].$append")
 	copy_field("c", "Andere.yyyyyyyyy[].$append")
 end
