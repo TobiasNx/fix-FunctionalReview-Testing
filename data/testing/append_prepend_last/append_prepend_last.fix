@@ -1,0 +1,6 @@
+set_array("test[]")
+set_array("test_2[]")
+add_field("test[].$append.test","World")
+prepend("test[].$last.test","Hello ")
+add_field("test_2[].$append.test","foo")
+append("test_2[].$last.test"," bar")
