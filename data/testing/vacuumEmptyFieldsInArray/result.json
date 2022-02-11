@@ -1,0 +1,8 @@
+{
+  "array" : [ "test" ],
+  "arrayOfObjects" : [ {
+    "name" : "kurt"
+  }, {
+    "name" : "bob"
+  } ]
+}

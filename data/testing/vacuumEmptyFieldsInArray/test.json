@@ -1,0 +1,44 @@
+{
+    "array": [
+        "",
+        "test",
+        ""
+    ],
+    "array_2": [
+        "",
+        ""
+    ],
+    "arrayOfObjects": [
+        {},
+        {
+            "name": "kurt"
+        },
+        {
+            "name": "",
+            "type": ""
+        },
+        {
+            "name": "bob",
+            "type": ""
+        }
+    ],
+    "arrayOfObjects_2": [
+        {},
+        {}
+    ],
+    "arrayOfObjects_3": [
+        {
+            "name": "",
+            "type": "",
+            "array_objects": [
+                {},
+                {},
+                {}
+            ],
+            "array_string": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
