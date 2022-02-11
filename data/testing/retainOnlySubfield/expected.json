@@ -1,0 +1,10 @@
+{
+  "lrt" : [ "https://w3id.org/kim/hcrt/image" ],
+  "node": {
+    "properties": {
+        "ccm:educationallearningresourcetype": [
+            "https://w3id.org/kim/hcrt/image"
+        ]
+    }
+}
+}
