@@ -1,13 +1,21 @@
 {
   "coll" : [ {
     "feldtest" : "true",
-    "a" : "Dog",
-    "a" : "Ape",
+    "a" : "Dog"
+  }, {
+    "feldtest" : "true",
+    "a" : "Ape"
+  }, {
+    "feldtest" : "true",
     "a" : "Giraffe"
   }, {
     "feldtest" : "true",
-    "a" : "Crocodile",
-    "a" : "Human",
+    "a" : "Crocodile"
+  }, {
+    "feldtest" : "true",
+    "a" : "Human"
+  }, {
+    "feldtest" : "true",
     "a" : "Bird"
   } ]
 }
