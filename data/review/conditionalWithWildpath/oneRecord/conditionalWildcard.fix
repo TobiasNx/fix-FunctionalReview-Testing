@@ -1,0 +1,17 @@
+do list(path:"person")
+  if any_equal("*me", "Bob")
+    add_field("position", "archive")
+  end
+end
+
+do list(path:"person")
+  unless any_match("name|nome|Name", "Bob|Peter")
+    add_field("position", "1. detective")
+  end
+end
+
+do list(path:"person")
+  unless exists("p?sition")
+    add_field("position", "2. detective")
+  end
+end

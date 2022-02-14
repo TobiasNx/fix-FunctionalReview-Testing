@@ -1,0 +1,12 @@
+if any_equal("*me", "Bob")
+  add_field("position", "archive")
+end
+
+unless any_match("name|nome|Name", "Bob|Peter")
+  add_field("position", "1. detective")
+end
+
+unless exists("p?sition")
+  add_field("position", "2. detective")
+end
+
