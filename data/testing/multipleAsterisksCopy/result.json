@@ -1,0 +1,18 @@
+{
+  "animals" : [ {
+    "A" : [ {
+      "name" : "Jake"
+    } ],
+    "B" : [ "First" ],
+    "C" : "simple"
+  }, {
+    "A" : [ {
+      "name" : "Blacky"
+    } ],
+    "B" : [ "Second" ],
+    "C" : "controll"
+  } ],
+  "Test_1" : [ ],
+  "Test_2" : [ ],
+  "Test_3" : [ "simple", "control" ]
+}

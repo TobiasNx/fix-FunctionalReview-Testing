@@ -1,0 +1,6 @@
+set_array("Test_1[]")
+set_array("Test_2[]")
+set_array("Test_3[]")
+copy_field("animals[].*.A[].*.name", "Test_1[].$append")
+copy_field("animals[].*.B[].*", "Test_2[].$append")
+copy_field("animals[].*.C", "Test_3[].$append")
