@@ -1,0 +1,3 @@
+add_field("animals[].*.test", "test")
+copy_field("C", "animals[].*.C")
+set_array("amimals[].*.testArray[]")

@@ -1,0 +1,20 @@
+{
+	"animals": [
+		{
+			"A": [{"name":"Jake"}],
+			"B": ["First"],
+            "test": "test",
+            "C": "test_2",
+            "testArray": []
+
+		},
+		{
+			"A": [{"name":"Blacky"}],
+			"B": ["Second"],
+            "test": "test",
+            "C": "test_2",
+            "testArray": []
+		}
+	],
+	"C": "test_2"
+}

@@ -1,0 +1,15 @@
+{
+  "animals" : [ {
+    "A" : [ {
+      "name" : "Jake"
+    } ],
+    "B" : [ "First" ]
+  }, {
+    "A" : [ {
+      "name" : "Blacky"
+    } ],
+    "B" : [ "Second" ]
+  } ],
+  "C" : "test_2",
+  "amimals[].*.testArray" : [ ]
+}
