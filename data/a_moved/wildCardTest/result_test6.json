@@ -7,10 +7,7 @@
   },
   "ANIMALS" : "dragon and unicorn",
   "stringimals" : [ {
-    "$append" : "dog",
-    "$append" : "cat",
-    "$append" : "zebra",
     "$append" : "bunny"
   } ],
-  "strongimals" : [ "dog", "cat", "zebra", "bunny" ]
+  "strongimals" : [ "bunny" ]
 }

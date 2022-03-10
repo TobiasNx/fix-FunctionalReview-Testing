@@ -4,6 +4,10 @@
   }, {
     "animal" : "cat"
   }, {
+    "animal" : "human"
+  }, {
+    "animal" : "unicorn"
+  }, {
     "animal" : "earthworm"
   } ],
   "others" : {

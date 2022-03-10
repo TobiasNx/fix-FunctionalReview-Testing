@@ -1,24 +1,24 @@
 {
   "animals" : [ "Yeah dog is cool", "cat", "zebra" ],
   "bnimals" : [ "Muh dog is cool", "Muh cat is cool", "Muh zebra is cool" ],
+  "animal" : "What a nice bunny is cool",
   "animols" : {
-    "type" : "TEST",
-    "name" : "Mr bird boss"
+    "name" : "Mr bird boss",
+    "type" : "TEST"
   },
   "ANIMALS" : [ "dog", "cat", "zebra" ],
   "others" : [ {
-    "animal" : "dog is cool",
-    "name" : "Hello Jake"
+    "name" : "Hello Jake",
+    "animal" : "dog is cool"
   }, {
     "name" : "Finn",
     "animal" : "human"
   } ],
   "OTHERS" : [ {
-    "animal" : "dog is cool",
-    "name" : "Hi Jake"
+    "name" : "Hi Jake",
+    "animal" : "dog is cool"
   }, {
-    "animal" : "human is cool",
-    "name" : "Hi Finn"
-  } ],
-  "animal" : "What a nice bunny is cool"
+    "name" : "Hi Finn",
+    "animal" : "human is cool"
+  } ]
 }
