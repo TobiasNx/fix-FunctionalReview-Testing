@@ -1,6 +1,6 @@
 {
   "animals" : [ "zebra", "cat", "dog" ],
-  "ANIMALS" : [ "dog", "cat", "zebra" ],
+  "ANIMALS" : [ "zebra", "cat", "dog", "zebra", "cat", "dog", "zebra", "cat", "dog" ],
   "animal" : "ynnub",
   "animols" : {
     "name" : "bird",
@@ -15,5 +15,9 @@
     "name" : "Jake",
     "Aanimal" : "dog",
     "Banimal" : "dog"
+  }, {
+    "*" : {
+      "name" : "Jake"
+    }
   } ]
 }

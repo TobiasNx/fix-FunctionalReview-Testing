@@ -1,5 +1,5 @@
 copy_field("animal", "animalGroup")
-lookup("animalGroup", "data/approved/map/mapfile.tsv", "sep_char":"\t")
+lookup("animalGroup", "./mapfile.tsv", "sep_char":"\t")
 
 copy_field("animal", "animalGroupTEST")
-lookup("animalGroupTEST", "data/approved/map/mapfile.tsv")
+lookup("animalGroupTEST", "./mapfile.tsv")

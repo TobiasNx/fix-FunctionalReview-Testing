@@ -9,6 +9,12 @@
   },
   "others" : [ {
     "tools" : "hammer--saw--bow"
+  }, {
+    "*" : {
+      "tools" : "hammer",
+      "tools" : "saw",
+      "tools" : "bow"
+    }
   } ],
   "OTHERS" : [ {
     "tools" : "hammer",

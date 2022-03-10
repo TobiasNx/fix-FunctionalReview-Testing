@@ -5,8 +5,12 @@
   }, {
     "name" : "Blacky",
     "animalGroup" : "parrot"
-  } ],
-  "animals[].*.test" : [ ],
-  "animals[].$last.TEST" : [ ],
-  "animals[].$append.T__ST" : [ ]
+  }, {
+    "*" : {
+      "test" : [ ]
+    },
+    "TEST" : [ ]
+  }, {
+    "T__ST" : [ ]
+  } ]
 }

@@ -1,18 +1,18 @@
 {
   "animals" : [ "Yeah dog", "cat", "zebra" ],
   "bnimals" : [ "Muh dog", "Muh cat", "Muh zebra" ],
+  "animal" : "What a nice bunny",
   "animols" : {
-    "type" : "TEST",
-    "name" : "Boss bird"
+    "name" : "Boss bird",
+    "type" : "TEST"
   },
   "ANIMALS" : [ "dog", "cat", "zebra" ],
   "others" : [ {
-    "animal" : "dog",
-    "name" : "Hello Jake"
+    "name" : "Hello Jake",
+    "animal" : "dog"
   } ],
   "OTHERS" : [ {
-    "animal" : "dog",
-    "name" : "Hi Jake"
-  } ],
-  "animal" : "What a nice bunny"
+    "name" : "Hi Jake",
+    "animal" : "dog"
+  } ]
 }

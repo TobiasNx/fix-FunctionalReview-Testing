@@ -9,7 +9,19 @@
       "name" : "Blacky"
     } ],
     "B" : [ "Second" ]
+  }, {
+    "*" : {
+      "test" : "test"
+    }
+  }, {
+    "*" : {
+      "C" : "test_2"
+    }
   } ],
   "C" : "test_2",
-  "amimals[].*.testArray" : [ ]
+  "amimals" : [ {
+    "*" : {
+      "testArray" : [ ]
+    }
+  } ]
 }

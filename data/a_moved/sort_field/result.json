@@ -18,6 +18,14 @@
     "name" : "Jake",
     "enimals" : [ "dog", "cat", "zebra" ],
     "eumbers" : [ "7", "2", "1", "10" ]
+  }, {
+    "*" : {
+      "enimals" : [ "cat", "dog", "zebra" ]
+    }
+  }, {
+    "*" : {
+      "eumbers" : [ "1", "2", "7", "10" ]
+    }
   } ],
   "xumbers" : [ "1", "10", "2", "7" ],
   "ynimals" : [ "cat", "dog", "zebra" ],

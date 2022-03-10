@@ -1,9 +1,10 @@
 {
   "animals" : [ "dog is cool", "cat", "zebra" ],
   "bnimals" : [ "dog is cool", "cat is cool", "zebra is cool" ],
+  "animal" : "bunny is cool",
   "animols" : {
-    "type" : "TEST",
-    "name" : "bird boss"
+    "name" : "bird boss",
+    "type" : "TEST"
   },
   "ANIMALS" : [ "dog", "cat", "zebra" ],
   "others" : [ {
@@ -13,6 +14,5 @@
   "OTHERS" : [ {
     "name" : "Jake",
     "animal" : "dog is cool"
-  } ],
-  "animal" : "bunny is cool"
+  } ]
 }

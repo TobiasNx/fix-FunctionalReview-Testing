@@ -16,5 +16,9 @@
     "name" : "Jake",
     "dnimals" : [ "dog", "cat", "zebra" ],
     "dumbers" : [ "7", "2", "1", "10" ]
+  }, {
+    "*" : {
+      "eumbers" : [ "0" ]
+    }
   } ]
 }

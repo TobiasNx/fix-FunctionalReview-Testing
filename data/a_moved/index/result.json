@@ -1,17 +1,17 @@
 {
   "animals" : [ "dog", "1", "zebra" ],
+  "animal" : "2",
   "animols" : {
     "name" : "bird",
     "type" : "1"
   },
   "others" : [ {
+    "name" : "1",
     "Aanimal" : "dog",
-    "Banimal" : "dog",
-    "name" : "1"
+    "Banimal" : "dog"
   }, {
     "name" : "Blacky",
     "Aanimal" : "parrot",
     "Banimal" : "parrot"
-  } ],
-  "animal" : "2"
+  } ]
 }

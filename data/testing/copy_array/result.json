@@ -12,19 +12,10 @@
     "name" : "Jake",
     "Aanimal" : "dog",
     "Banimal" : "dog",
-    "yyyyyyyyy" : [ {
-      "$append" : "dog",
-      "$append" : "cat",
-      "$append" : "zebra",
-      "$append" : "crocodile",
-      "$append" : "bird",
-      "$append" : "fish",
-      "$append" : "spider"
-    } ],
+    "yyyyyyyyy" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ],
     "zzzzzzzzzzzz" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ]
   },
   "yyyyyyyyy" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ],
-  "Andere.yyyyyyyyy" : [ ],
   "zzzzzzzzzzzz" : [ "dog", "cat", "zebra", "crocodile", "bird", "fish", "spider" ]
 }
 {
@@ -38,13 +29,10 @@
     "name" : "Jake",
     "Aanimal" : "dog",
     "Banimal" : "dog",
-    "yyyyyyyyy" : [ {
-      "$append" : "crocodile"
-    } ],
+    "yyyyyyyyy" : [ "crocodile" ],
     "zzzzzzzzzzzz" : [ "crocodile" ]
   },
   "yyyyyyyyy" : [ "crocodile" ],
-  "Andere.yyyyyyyyy" : [ ],
   "zzzzzzzzzzzz" : [ "crocodile" ]
 }
 {
@@ -58,12 +46,9 @@
     "name" : "Jake",
     "Aanimal" : "dog",
     "Banimal" : "dog",
-    "yyyyyyyyy" : [ {
-      "$append" : "ape"
-    } ],
+    "yyyyyyyyy" : [ "ape" ],
     "zzzzzzzzzzzz" : [ "ape" ]
   },
   "yyyyyyyyy" : [ "ape" ],
-  "Andere.yyyyyyyyy" : [ ],
   "zzzzzzzzzzzz" : [ "ape" ]
 }

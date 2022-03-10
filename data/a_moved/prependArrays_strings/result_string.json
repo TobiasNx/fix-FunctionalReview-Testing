@@ -1,10 +1,4 @@
 {
-  "animals" : [ "dog", "cat", {
-    "$prepend" : "human"
-  }, {
-    "$prepend" : "unicorn"
-  }, {
-    "$prepend" : "earthworm"
-  } ],
+  "animals" : [ "dog", "cat", "human", "unicorn", "earthworm" ],
   "others" : "human"
 }

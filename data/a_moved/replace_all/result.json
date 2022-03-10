@@ -1,9 +1,9 @@
 {
   "animals" : [ "dog", "cQRt", "zebrQR" ],
+  "animal" : "bABnny",
   "animols" : {
-    "type" : "TEST",
-    "name" : "bXYrd"
+    "name" : "bXYrd",
+    "type" : "TEST"
   },
-  "ANIMALS" : "dragon and unicorn",
-  "animal" : "bABnny"
+  "ANIMALS" : "dragon and unicorn"
 }

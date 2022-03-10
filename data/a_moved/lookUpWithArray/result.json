@@ -1,0 +1,11 @@
+{
+  "animals" : [ {
+    "name" : "Jake",
+    "Aanimal" : "mammal",
+    "Banimal" : "mammal"
+  }, {
+    "name" : "Blacky",
+    "Aanimal" : "bird",
+    "Banimal" : "bird"
+  } ]
+}

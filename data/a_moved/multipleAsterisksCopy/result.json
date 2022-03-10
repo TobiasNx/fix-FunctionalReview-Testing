@@ -12,7 +12,7 @@
     "B" : [ "Second" ],
     "C" : "controll"
   } ],
-  "Test_1" : [ ],
-  "Test_2" : [ ],
-  "Test_3" : [ "simple", "control" ]
+  "Test_1" : [ "Jake", "Blacky" ],
+  "Test_2" : [ "First", "Second" ],
+  "Test_3" : [ "simple", "controll" ]
 }
